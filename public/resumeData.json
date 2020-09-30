@@ -2,40 +2,40 @@
   "main": {
     "name": "Rachneet Sachdeva",
     "occupation": "Machine learning researcher",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "description": "Passionate for all things AI,  sports aficionado and fitness addict",
+    "image": "profile.jpg",
+    "bio": "Passionate software engineer having 2+ years of experience in leveraging machine learning for real-world text, audio, and graph processing tasks. Helped organizations automate workflows and boost efficiency. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "rachneet.sachdeva@rwth-aachen.de",
+    "phone": "+49 176 47194617",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Mattschö-Moll-Weg",
+      "city": "Aachen",
+      "state": "Germany",
+      "zip": "52064"
     },
-    
+
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1LHvwXKOJyY0OH5coEigfs2ZNlMMvjspq/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/rachneet",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/rachneetsachdeva/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/rachneet.sachdeva/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Rachneet",
         "className": "fa fa-github"
       }
     ]
@@ -44,96 +44,100 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "RWTH Aachen University",
+        "degree": "Masters in Electrical Engineering",
+        "graduated": "September 2017 - Present",
+        "description": "Specialization in communications and machine learning."
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "RWTH Aachen University, Institute of Networking",
+        "title": "Student Researcher",
+        "years": "March 2020 - Present",
+        "description": "Deep learning for communication signals."
       },
       {
-        "company": "Lindar Media",
+        "company": "RWTH Aachen University, Computational Social Sciences Institute",
+        "title": "Student Research Assistant",
+        "years": "May 2018 - April 2020",
+        "description": "Deep learning for social networks."
+      },
+      {
+        "company": "Infosys Limited",
         "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "years": "June 2015 - August 2017",
+        "description": "Automation testing and CI/CD."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Python",
+        "level": "80%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Machine & Deep Learning",
+        "level": "80%"
+      },
+      {
+        "name": "Data Science & Analytics",
+        "level": "80%"
+      },
+      {
+        "name": "Pytorch",
+        "level": "80%"
+      },
+      {
+        "name": "Selenium",
+        "level": "80%"
+      },
+      {
+        "name": "Deployment: AWS, Docker & Heroku",
+        "level": "70%"
+      },
+      {
+        "name": "Jenkins",
+        "level": "60%"
+      },
+      {
+        "name": "Java, C & C++",
+        "level": "60%"
       },
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Databases: MySQL & MongoDB",
+        "level": "50%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Data Visualization: Tableau",
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Signal Modulation Predictor",
+        "category": "Predicting signal modulations using deep learning (CNN, ResNets, Transfer Learning).",
+        "image": "mod_app.PNG",
+        "url": "http://ec2-52-14-114-86.us-east-2.compute.amazonaws.com/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Gender Predictor",
+        "category": "Gender prediction on social networks using machine learning (XGBoost, CNN, LSTM).",
+        "image": "gender_app.PNG",
+        "url": "https://gender-prediction-app.herokuapp.com/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "",
+        "user": ""
       }
     ]
   }
