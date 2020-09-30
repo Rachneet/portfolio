@@ -2,6 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rachneet.github.io/portfolio/",
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.13.1",
@@ -13,7 +14,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -26,9 +29,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
-  "main": "index.js",
-  "author": "Rachneet Sachdeva",
-  "license": "ISC"
+  }
 }
