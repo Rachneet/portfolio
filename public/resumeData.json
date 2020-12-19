@@ -16,7 +16,7 @@
     },
 
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1LHvwXKOJyY0OH5coEigfs2ZNlMMvjspq/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1jGFx4vHvxl-lpN3RrU0Uy051yCNIix4h/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -130,6 +130,12 @@
         "category": "Gender prediction on social networks using machine learning (XGBoost, CNN, LSTM).",
         "image": "gender_app.PNG",
         "url": "https://gender-prediction-app.herokuapp.com/"
+      },
+      {
+        "title": "Airbnb Data Exploration",
+        "category": "Analysing Airbnb data to predict property prices.",
+        "image": "airbnb.jpg",
+        "url": "https://github.com/Rachneet/AirBnB-Analysis"
       }
     ]
   },
